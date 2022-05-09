@@ -1,6 +1,16 @@
 # arduino-uno-gps-tracker
 
-GSM Sim800l
+
+## Hardware Required
+
+1 x ESP8266 
+1 x USB 2.0 cable type A/B
+1 x GSM Sim800l
+1 * Breadboard
+4 * Jumper Wires
+
+
+
 
 
 
