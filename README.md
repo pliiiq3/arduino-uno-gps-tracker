@@ -1,5 +1,6 @@
 # arduino-uno-gps-tracker
 
 
-![alt text](https://github.com/pliiiq3/arduino-uno-gps-tracker/blob/main/src/img1.jpg = 250x250)
 
+
+<img src="https://github.com/pliiiq3/arduino-uno-gps-tracker/blob/main/src/img1.jpg" width="200" height="400" />
