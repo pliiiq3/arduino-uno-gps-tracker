@@ -2,7 +2,7 @@
 
 GSM Sim800l
 
-
+/*
  *    PINOUT: 
  *        _____________________________
  *       |  ARDUINO UNO >>>   SIM800L  |
@@ -13,7 +13,7 @@ GSM Sim800l
  *       RESET 2       >>>   RST 
  *                 
  *   POWER SOURCE 4.2V >>> VCC
-
+/*
 
 
 
